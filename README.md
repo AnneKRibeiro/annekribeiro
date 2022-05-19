@@ -3,8 +3,8 @@
 
 - 🔭 Atualmente estou trabalhando em TI, na aréa de suporte e manutenção de computadores e notebooks.
 - 🙃 Tenho interesse na área de Desenvolvimento.
-- 👩‍🎓 Fazendo faculdade de Análise e Desenvolvimento de sistemas e  Gestão de TI
-- 🌱 Estudando Python.
+- 👩‍🎓 Fazendo faculdade de Análise e Desenvolvimento de sistemas e  Licenciatura em informatica
+- 🌱 Estudando Python, SQL
 - 😄 Pronomes: ela/dela
 - Possuo o básico de html e css, já criei alguns projetinhos.
 
