@@ -1,7 +1,7 @@
 ### Olá, Sou Anne Karolyne 👋
 
 
-- 🔭 Atualmente estou trabalhando em TI, na aréa de suporte e manutenção de computadores e notebooks.
+- 🔭 Atualmente estou trabalhando em TI, na aréa Supervisão de suporte em software ERP 
 - 🙃 Tenho interesse na área de Desenvolvimento.
 - 👩‍🎓 Fazendo faculdade de Análise e Desenvolvimento de sistemas e  Licenciatura em informatica
 - 🌱 Estudando Python, SQL
