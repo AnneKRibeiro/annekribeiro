@@ -19,8 +19,8 @@
  <div style="display: inline_block">
   <img aling="center" alt="anne-py" heigth="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img aling="center" alt="anne-py" heigth="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img aling="center" alt="anne-py" heigth="40" width="40" src="https://https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img aling="center" alt="anne-py" heigth="40" width="40" src="https://https://https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img aling="center" alt="anne-py" heigth="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img aling="center" alt="anne-py" heigth="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  </div>
   
   ##
