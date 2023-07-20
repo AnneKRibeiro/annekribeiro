@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou trabalhando em TI, na aréa Supervisão de suporte em software ERP 
 - 🙃 Tenho interesse na área de Desenvolvimento.
 - 👩‍🎓 Fazendo faculdade de Análise e Desenvolvimento de sistemas e  Licenciatura em informatica
-- 🌱 Estudando Python, SQL
+- 🌱 Investindo nos estudos de desenvolvimento com JavaScript, Python.
 - 😄 Pronomes: ela/dela
 - Possuo o básico de html e css, já criei alguns projetinhos.
 
